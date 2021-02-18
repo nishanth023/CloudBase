@@ -3,7 +3,7 @@
 Project ongoing
 
 ## About
-This projcts makes building backend for IOT based applications simpler. This allows developers to concentrate more on their hardware techlonogy instead of managng database, security and deployment.
+This projects makes building backend for IOT based applications simpler. This allows developers to concentrate more on their hardware techlonogy instead of managng database, security and deployment.
 
 ## Features
 * Script based routing
